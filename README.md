@@ -24,4 +24,11 @@ Here are some ideas to get you started:
 ![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kill)
 
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/gps03155">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gps03155&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=dark" />
+  </a>
+</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gps03155&show_icons=true&theme=radical)
