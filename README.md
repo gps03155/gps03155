@@ -33,7 +33,4 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kill)](https://solved.ac/kill)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kill)](https://solved.ac/kill)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gps03155&show_icons=true&theme=radical)
