@@ -33,4 +33,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gps03155&show_icons=true&theme=dark)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gps03155&show_icons=true&theme=dark"/>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gps03155&show_icons=true&theme=dark) -->
