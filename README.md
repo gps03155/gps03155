@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kill)](https://solved.ac/kill)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kill)]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gps03155&show_icons=true&theme=radical)
