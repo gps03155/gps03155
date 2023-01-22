@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </p>
 
 <p align="center">
-![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kill)
+  <img align="center" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kill"/>
 </p>
 
 <h3 align="center">💡 Languages 💡</h3>
