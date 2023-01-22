@@ -33,5 +33,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gps03155&show_icons=true&theme=dark"/>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gps03155&show_icons=true&theme=dark"/>
+</p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gps03155&show_icons=true&theme=dark) -->
