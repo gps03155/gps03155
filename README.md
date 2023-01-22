@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/gps03155">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gps03155&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gps03155&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=dark" />
   </a>
 </p>
 
