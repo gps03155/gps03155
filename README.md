@@ -26,8 +26,6 @@ Here are some ideas to get you started:
   <img align="center" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kill"/>
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kill)]
-
 <h3 align="center">💡 Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/gps03155">
